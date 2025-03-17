@@ -1,0 +1,11 @@
+{
+  "firstName": "cheb",
+  "lastName": "sagfa",
+  "email": "ba31@gmail.com",
+  "password": "1234f",
+  "street": "555 main street",
+  "city":"las vegas",
+  "zip": "30007",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}

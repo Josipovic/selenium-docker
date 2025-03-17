@@ -1,0 +1,11 @@
+{
+  "firstName": "jahe",
+  "lastName": "aslim",
+  "email": "poip@gmail.com",
+  "password": "mklj",
+  "street": "985 main street",
+  "city":"los angeles",
+  "zip": "30011",
+  "passengersCount": "4",
+  "expectedPrice": "$2338 USD"
+}

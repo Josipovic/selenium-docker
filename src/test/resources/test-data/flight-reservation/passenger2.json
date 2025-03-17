@@ -1,0 +1,11 @@
+{
+  "firstName": "mars",
+  "lastName": "vas",
+  "email": "2asf3w@gmail.com",
+  "password": "mm",
+  "street": "234 main street",
+  "city":"detroit",
+  "zip": "30002",
+  "passengersCount": "2",
+  "expectedPrice": "$1169 USD"
+}
