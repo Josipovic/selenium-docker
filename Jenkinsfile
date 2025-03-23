@@ -21,7 +21,8 @@ pipeline {
                 bat 'echo %DOCKER_HUB_PSW% | docker login -u %DOCKER_HUB_USR% --password-stdin'
                 bat "docker push kjosipovic/selenium:latest"
                 bat "docker tag kjosipovic/selenium:latest kjosipovic/selenium:${env.BUILD_NUMBER}"
-                bat "docker push kjosipovic/selenium:latest kjosipovic/selenium:${env.BUILD_NUMBER}"
+                bat "docker push kjosipovic/selenium:latest"
+                bat "docker push kjosipovic/selenium:${env.BUILD_NUMBER}"
             }
         }
     }
